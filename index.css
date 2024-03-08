@@ -35,8 +35,8 @@ body {
   font-size: 30px;
   color: #122B4F;
   margin: 0;
-  background: #ffff;
-  border: 5px solid #0066ff;
+  background:  #d69553;
+  border: 2px solid #0066ff;
   border-radius: 15px;
  
 }
@@ -48,13 +48,13 @@ body {
   text-align: center;
   padding: 10px;
   font-size: 35px;
-  color: #ffff;
+  color: #d69553;
 }
 
 .activities-container {
   display: flex;
   justify-content: space-around;
-  color: #ffff;
+  color: #d69553;
   font-size: 25px;
 }
 
@@ -73,7 +73,7 @@ width: 400px;
  justify-content: space-around;
  text-align: center;
  background: #122B4F;
- color:#ffff;
+ color:#d69553;
 
 }
 
